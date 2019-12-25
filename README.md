@@ -36,7 +36,7 @@ BLoCパターンはその中の一つくらいだと思っておけば大丈夫�
 - Stateful Widgetを使った簡単なアプリを作る（スキップします）
     - udacityとかの動画で学習したり，Flutterの公式チュートリアルやったりで大丈夫だと思います．
 - Streamを学習する
-    - [step1](./step1.md)
+    - [step1](./step1/step1.md)
 - BLoCパターンを使ったプチアプリ（一機能くらいの）を作ってみる
     - [step2](./step2.md)
 - RxDartを学習する（↑の機能をRxDartで書き換えてみる）
