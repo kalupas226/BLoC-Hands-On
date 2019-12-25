@@ -102,7 +102,8 @@ void main() {
 ### 実際に Stream を利用してプチゲームを作る
 
 - 完成イメージ ↓
-  ![game](./game.png)
+
+![game](./game.png)
 - 正解ワードを推測するプチゲーム
 
   - ユーザーは 4 回まで入力できる
@@ -172,8 +173,9 @@ void main() {
 ### 実際に Stream を利用してバリデーションフォームを作る
 
 - 完成イメージ ↓
-  ![invalid_email](./invalid_email.png)
-  ![valid_email](./valid_email.png)
+
+![invalid_email](./invalid_email.png)
+![valid_email](./valid_email.png)
 
 - まずは HTML を書いていきましょう
 
